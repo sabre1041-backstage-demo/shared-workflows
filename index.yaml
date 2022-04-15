@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  quarkus-build:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-15T15:10:14.163456856Z"
+    description: Chart for building a quarkus app with s2i
+    digest: 38b2ebd7e69e5aea68295eea7d5d43d4a61434e51f79e4212b0ea0c04ae2baef
+    name: quarkus-build
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-build-0.1.0/quarkus-build-0.1.0.tgz
+    version: 0.1.0
+  quarkus-run:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-15T15:10:14.341643674Z"
+    description: chart for running a quarkus micro service
+    digest: b37d885b805b7d7027302eda7a973afeb86e02d96c47f6d49b066f7e4aae2147
+    name: quarkus-run
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-15T15:10:14.341648874Z"
