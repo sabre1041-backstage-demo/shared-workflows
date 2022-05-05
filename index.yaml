@@ -14,6 +14,16 @@ entries:
   quarkus-run:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-05T02:10:45.327450073Z"
+    description: chart for running a quarkus micro service
+    digest: 8b547ecc5600ebbb9233dd0594d61c1f1f2e8c2e6121a71336768843acbbf9ee
+    name: quarkus-run
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.7/quarkus-run-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-05-05T01:53:27.137806266Z"
     description: chart for running a quarkus micro service
     digest: 95c3dd35785e15d74d33a0f4eecffed5fa061225b36b855ea9092f453cd8cc07
@@ -82,4 +92,4 @@ entries:
     urls:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-05T01:53:27.137831066Z"
+generated: "2022-05-05T02:10:45.327821088Z"
